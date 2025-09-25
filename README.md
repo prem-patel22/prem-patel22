@@ -58,16 +58,16 @@ Here are some of the technologies and tools I've been working with:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/your_github_username">
-    <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Prem Patel's GitHub Stats" />
+  <a href="https://github.com/prem-patel22">
+    <img src="https://github-readme-stats.vercel.app/api?username=prem-patel22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Prem Patel's GitHub Stats" />
   </a>
-  <a href="https://github.com/your_github_username">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://github.com/prem-patel22">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-patel22&layout=compact&theme=dark" alt="Top Languages" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your_github_username&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=prem-patel22&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
