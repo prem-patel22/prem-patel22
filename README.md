@@ -1,14 +1,13 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Prem Patel 👋</h1>
-  <h3 align="center">B.Tech IT Engineering Student (2023–2027) from Godhra, Gujarat, India 🇮🇳</h3>
+  <h3 align="center">B.Tech IT Engineering Student (2023–2027) from Nadiad, Gujarat, India</h3>
 
   <p>
-    <a href="https://www.linkedin.com/in/your_linkedin_profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/your_instagram_profile"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.reddit.com/user/your_reddit_profile"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-    <a href="mailto:your_email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://twitter.com/your_twitter_profile"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://www.pexels.com/@your_pexels_profile"><img alt="Pexels" src="https://img.shields.io/badge/Pexels-00BFFF?style=for-the-badge&logo=pexels&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/prem-patel-50a59b27a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/prem.ptl_1811"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.reddit.com/user/alph_a04"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+    <a href="mailto:patelpremalpeshkumar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.pexels.com/@prem-patel-2152391155"><img alt="Pexels" src="https://img.shields.io/badge/Pexels-00BFFF?style=for-the-badge&logo=pexels&logoColor=white" /></a>
   </p>
 
   <p align="center">
@@ -24,13 +23,7 @@
 
 ## 👋 About Me
 
-I'm a passionate and aspiring B.Tech IT Engineering student on a journey to explore the vast world of technology. With a solid foundation in programming languages like C, C++, Java, and Python, I'm eager to dive deeper into **AI/ML** and **Full Stack Development**. My goal is to leverage technology to create impactful and user-centric applications. Currently, I'm preparing diligently for **GATE 2026** to further my academic and professional pursuits.
-
-I love to build and experiment! Some of my recent projects include:
-- 🤖 **Personal Life OS AI Assistant (LifeGPT)**: An intelligent assistant designed to streamline daily tasks and enhance personal productivity.
-- 🧠 **MindSync**: A mental health journal integrated with AI to provide insights and support.
-
-Let's connect and build something amazing together!
+I'm a passionate and aspiring B.Tech IT Engineering student on a journey to explore the vast world of technology. With a solid foundation in programming languages like C, C++, Java, and Python, I'm eager to dive deeper into **AI/ML** and **Full Stack Development**. My goal is to leverage technology to create impactful and user-centric applications.
 
 ---
 
@@ -84,15 +77,10 @@ Here are some of the technologies and tools I've been working with:
 Feel free to connect with me. I'm always open to discussing new projects, interesting ideas, or opportunities.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your_linkedin_profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/your_twitter_profile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/prem-patel-50a59b27a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:patelpremalpeshkumar@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/prem.ptl_1811"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-**Note**: Remember to replace `your_github_username`, `your_linkedin_profile`, `your_instagram_profile`, `your_reddit_profile`, `your_email@example.com`, `your_twitter_profile`, and `your_pexels_profile` with your actual profile links and username.
-
-This `README.md` will give your GitHub profile a professional and engaging look, similar to the examples you provided. Let me know if you'd like any adjustments or further personalization!
-
-Here's a visual representation of how the GitHub stats card might look:
