@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h3>"Crafting innovative solutions, one line of code at a time."</h3>
+  <h3>"Turning caffeine into code and ideas into reality."</h3>
 </div>
 
 ---
