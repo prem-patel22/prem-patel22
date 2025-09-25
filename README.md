@@ -66,12 +66,6 @@ Here are some of the technologies and tools I've been working with:
   </a>
 </div>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=prem-patel22&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ## 📬 Get in Touch!
