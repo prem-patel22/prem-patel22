@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=your_github_username&style=for-the-badge&color=brightgreen" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=prem-patel22&style=for-the-badge&color=brightgreen" alt="Profile views" />
   </p>
 </div>
 
