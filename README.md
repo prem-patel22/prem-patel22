@@ -93,6 +93,14 @@ email     : patelpremalpeshkumar@gmail.com
 
 </div>
 
+<div align="center">
+
+### 🟩 Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/1D4ED8/prem-patel22" alt="Contribution Heatmap" width="95%"/>
+
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
