@@ -74,21 +74,22 @@ email     : patelpremalpeshkumar@gmail.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem-patel22&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&icon_color=3B82F6&text_color=1E3A5F"/>
+<!-- GitHub Stats — powered by github-stats-level.vercel.app (reliable alternative) -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prem-patel22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&icon_color=3B82F6&text_color=1E3A5F"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-patel22&layout=compact&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&text_color=1E3A5F&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=prem-patel22&theme=calm&hide_border=true&background=EFF6FF&ring=1D4ED8&fire=3B82F6&currStreakLabel=1D4ED8&sideLabels=1E3A5F&dates=64748B&stroke=BFDBFE" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prem-patel22&layout=compact&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&text_color=1E3A5F&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-patel22&theme=github-compact&bg_color=EFF6FF&color=1D4ED8&line=3B82F6&point=1D4ED8&hide_border=true" width="95%" alt="Contribution Graph"/>
+<img src="https://streak-stats.demolab.com/?user=prem-patel22&hide_border=true&background=EFF6FF&ring=1D4ED8&fire=3B82F6&currStreakLabel=1D4ED8&sideLabels=1E3A5F&dates=64748B&stroke=BFDBFE" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-patel22&bg_color=EFF6FF&color=1D4ED8&line=3B82F6&point=1D4ED8&hide_border=true&radius=6" width="95%" alt="Contribution Graph"/>
 
 </div>
 
