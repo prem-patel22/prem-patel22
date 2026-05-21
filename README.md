@@ -31,7 +31,7 @@ hobbies   : Photography · Open Source · Problem Solving
 email     : patelpremalpeshkumar@gmail.com
 ```
 
-- 🎓 Second-year IT student passionate about building **real-world applications**
+- 🎓 Third-year IT student passionate about building **real-world applications**
 - 🌱 Currently leveling up in **Spring Boot**, **React**, and **ML with Python**
 - 🔭 Exploring **REST APIs**, **JDBC**, and **database-driven backends**
 - 📸 Hobbyist photographer — check out my shots on [Pexels](https://www.pexels.com/@prem-patel-2152391155)
